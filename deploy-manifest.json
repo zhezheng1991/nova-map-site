@@ -1,0 +1,18 @@
+{
+  "kind": "arcgis-nova-deployable-app",
+  "version": "0.1",
+  "generatedAt": "2026-10-22T07:54:32.241Z",
+  "title": "LakeDistrictFells Triangle Styling",
+  "authMode": "oauth",
+  "entry": "index.html",
+  "sourceAppPath": "outputs/apps/2026-10-22T07-54-32-835c22bc-5d22-4e8c-85d4-fd8485c7f439/index.html",
+  "files": {
+    "app": "app.json",
+    "map": "map.json",
+    "runtime": "app.js",
+    "auth": "standalone-auth.js"
+  },
+  "portalUrl": "https://www.arcgis.com",
+  "appId": "Vooj750vf5940qhr",
+  "deploymentUrl": "https://zhezheng1991.github.io/nova-map-site/"
+}
